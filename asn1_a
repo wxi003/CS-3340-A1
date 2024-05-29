@@ -1,0 +1,6 @@
+#!/bin/sh
+# Name: Xi Wang
+# Student  Number: 251241272
+
+javac asn1_a.java
+time java asn1_a
