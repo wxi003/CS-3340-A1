@@ -1,3 +1,4 @@
+## CS 3340 - Analysis of Algorithms - Western University
 # Assignment 1
 Compute the Lucas numbers: L(n)=L(n−1)+L(n−2), n>1; F(0)=2; F(1)=1.
 
